@@ -1,0 +1,6 @@
+{
+  "name": "HEME",
+  "description": "Elite Strength & Conditioning engine for coaches to monitor athlete daily readiness, ACWR workload metrics, and program microcycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
